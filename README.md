@@ -4,8 +4,8 @@ The task:
 
 The trader can open or close positions on exchange. Implement Reward contract, that will reward traders for trading on exchange. The rewards should be calculated based on monthly bases. Trader can claim his rewards at any moment of time. The rewards calculation formula:
 
-trader_monthly_reward = traders_trading_volume_per_month / amm_total_trading_volume_per_month
-trader_total_reward = sum of all trader_monthly_reward while position was opened.
+    trader_monthly_reward = traders_trading_volume_per_month / amm_total_trading_volume_per_month
+    trader_total_reward = sum of all trader_monthly_reward while position was opened.
 
 Limitations:
 
