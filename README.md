@@ -45,5 +45,4 @@ Month-6:
 Month-8:
 
     Trader decides to claim his rewards the contract calculate the
-
-total_reward = 100/1000 + 300/500 + 300/200 + 300/200 + 0 + 600/1000
+    total_reward = 100/1000 + 300/500 + 300/200 + 300/200 + 0 + 600/1000
